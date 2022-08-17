@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 ===========================================
-Program : LFL_Lab_Maintenance/Emailer.py
+Program : Oxford_Alarm_System/Emailer.py
 ===========================================
 Summary:
 """
